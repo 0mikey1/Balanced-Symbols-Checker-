@@ -44,8 +44,9 @@ as oversize arrays of capacity equal to 51. To show their true size, you can pla
 For example, if list is “(,) [,] {,}”, then the arrays look like this:
 
 
+GDB ScreenShots
+____________________________
 
-
-
+Folder contains screenshots of main method execution flow using GNU Debugger(GDB). 
 
 
