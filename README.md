@@ -4,7 +4,7 @@ opening symbol has a corresponding closing symbol and the pairs of parenthesis a
 that I completed for Systems Programming (COP4338).
 
 
-Program Commands 
+**Program Commands** 
 ____________________________
 
 quit: ends the program.
@@ -25,7 +25,7 @@ tab, and white-space characters as an opening or closing symbol. Finally, you ca
 
 
 
-Program Functions 
+**Program Functions** 
 ____________________________
 
 int main(): The main function which must be stored in balance_checker.c file.
@@ -44,7 +44,7 @@ as oversize arrays of capacity equal to 51. To show their true size, you can pla
 For example, if list is “(,) [,] {,}”, then the arrays look like this:
 
 
-GDB ScreenShots
+**GDB ScreenShots**
 ____________________________
 
 Folder contains screenshots of main method execution flow using GNU Debugger(GDB). 
